@@ -10,8 +10,7 @@ This project follows CRISP-DM (Cross-Industry Standard Process for Data Mining) 
 *	**Evaluation:** Present the result of the analysis in form of tables and graphs.
 
 
-For this project data used [Seattle Airbnb data](https://www.kaggle.com/airbnb/seattle/data). The code is all contained in the Jupyter notebook incuded in the project. The data cleaning and preparation is performed primarily in the Data-Cleaning.ipynb notebook link . All of the data exploration, model training, parameter selection, and analysis is performed in the main price-analysis.ipynb notebook link.Simply clone this project into a directory and then download the Airbnb Seattle data and add the three csv files. I also wrote a Medium post about this project which can be found here.
-
+For this project data used [Seattle Airbnb data](https://www.kaggle.com/airbnb/seattle/data). Jupyter notebook incuded in the project where the code is written. The data cleaning and preparation is performed in the [Data Cleaning]. All of the data exploration, model training, parameter selection, and analysis is performed in the [Price Analysis]. I also wrote a [Medium post] about this project.
 
 
 ## Acknowledgements
