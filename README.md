@@ -18,6 +18,6 @@ For this project data used [Seattle Airbnb data](https://www.kaggle.com/airbnb/s
 
 
 ## Acknowledgements
-•	Kaggle
-•	Stackoverflow
-•	Youtude
+*	Kaggle
+*	Stackoverflow
+*	Youtude
