@@ -3,8 +3,8 @@
 The purpose of this project is to investigate host listings on Airbnb, a popular online hospitality service marketplace, to build predictive models on listing price based on key factors and variables.This information will allow Airbnb hosts to find and improve certain variables of their listing that are the highest indicators when it comes to setting price. Our predictive model can provide rough estimates as to how much your Airbnb in Seattle should be listed at based on your listing criteria.
 
 ## Resources Used
-Python Version: 3.8.3
-Packages: pandas, numpy, sklearn, matplotlib, seaborn
+* Python Version: 3.8.3
+* Packages: pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Data
 There are three categories of datasets utilized in this project. listing.csv, calendar.csv and reviews.csv
